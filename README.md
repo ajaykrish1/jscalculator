@@ -1,2 +1,1 @@
-# jscalculator
-calculator 
+# calculator
